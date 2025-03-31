@@ -1,4 +1,8 @@
-![Logo InfoStation](./img/wordmark.svg)
+<img src="./img/wordmark.svg" 
+        alt="Picture" 
+        height="100" 
+        style="display: block; margin: 0 auto" />
+
 
 # Description
 
