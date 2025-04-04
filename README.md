@@ -29,3 +29,6 @@ Ce dépôt GitHub est dédié exclusivement à la gestion des retours liés au p
 Il permet de centraliser les remontées de bugs, les suggestions d’amélioration, les demandes de fonctionnalités ainsi que les retours utilisateurs.
 
 Le développement d’InfoStation est réalisé sur un dépôt distinct, non public pour le moment. Ce système permet d’ouvrir un espace collaboratif autour du projet, en amont d’une éventuelle publication open source ou d’un déploiement plus large.
+
+# Notes de Version
+Les notes de version sont disponibles sur [Notion](https://infostation.notion.site/?pvs=74)
